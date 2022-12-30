@@ -13,6 +13,6 @@ public class Main extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&', "&a[Tutorial] Plugin loaded."));
+        Bukkit.getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&', "&c[Tutorial] Plugin Uninstalled."));
     }
 }
