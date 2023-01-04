@@ -23,3 +23,7 @@ For Chinese Viewers: https://docs.qq.com/doc/p/bd13fa576d4b5371c37d1064914ae5a09
 ### About
 Boat Team is a Minecraft plugin develope team from Badboys Studios, organized by BiliBiliBaiye_CN, Bluesky_ES, Starry_Killer and dyslmj_boy.
 Boat Team is now working at the private Minecraft project of Badboys Studios -- Badboys Network.
+
+
+### Contact Us
+You guess?
